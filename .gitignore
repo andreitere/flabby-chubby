@@ -1,0 +1,5 @@
+.DS_Store
+flabby-chubby-be/node_modules
+flabby-chubby-fe/node_modules
+flabby-chubby-be/.env
+flabby-chubby-fe/.env

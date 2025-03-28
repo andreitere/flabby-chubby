@@ -1,0 +1,1 @@
+ALTER TABLE "flabby"."users" ADD COLUMN "login_token" uuid DEFAULT gen_random_uuid() NOT NULL;
