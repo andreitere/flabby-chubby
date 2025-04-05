@@ -11,10 +11,7 @@ Play now: https://flabby.swninja.dev
 ### Frontend
 - Vue 3 with TypeScript
 - Vite for build tooling
-- TailwindCSS for styling
-- UnoCSS for atomic CSS
-- Vue Sonner for toast notifications
-- TanStack Table for data tables
+- Shadcn Vue for UI components
 - DayJS for date handling
 
 ### Backend
