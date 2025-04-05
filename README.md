@@ -2,6 +2,10 @@
 
 A simple Flappy Bird-inspired game crafted with modern web technologies.
 
+
+Play now: https://flabby.swninja.dev
+
+
 ## 🚀 Tech Stack
 
 ### Frontend
